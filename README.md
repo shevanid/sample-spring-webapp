@@ -1,4 +1,4 @@
-** Sample Pring Web Application
+** Sample Spring Web Application
 
 This application uses following dependencies
 
